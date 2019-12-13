@@ -7,8 +7,6 @@ A list of common Lumberyard gems
 * [Copal - Easier Physics Interactions](https://github.com/EladDv/Copal)
 * [Live2D Cubism3](https://github.com/alatnet/Lumberyard-Cubism3-Gem)
 * [[WIP] LuaConsole](https://forums.awsgametech.com/t/howto-execute-console-commands-from-lua/3070)
-* [PostgreSQL](https://github.com/ash-j-f/PLY-public)
-* [SQLite](https://github.com/alatnet/Lumberyard-SQLite-Gem)
 * [Window position](https://github.com/Aristo7/WindowPositionGem)
 
 ## ScriptCanvas
@@ -35,3 +33,4 @@ A list of common Lumberyard gems
 
 ## Databases
 * [PLY PostgreSQL multi-threaded connector](https://github.com/ash-j-f/PLY-public)
+* [SQLite](https://github.com/alatnet/Lumberyard-SQLite-Gem)
